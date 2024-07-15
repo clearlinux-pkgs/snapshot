@@ -1,0 +1,6 @@
+46.3
+gstreamer-dev
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-plugins-bad-1.0)
+pkgconfig(gstreamer-video-1.0)
+pkgconfig(libadwaita-1)
